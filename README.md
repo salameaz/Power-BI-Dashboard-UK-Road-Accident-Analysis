@@ -1,5 +1,3 @@
-# Power-BI-Dashboard-UK-Road-Accident-Analysis
-
 # UK Road Accident Analysis (2021-2022)
 
 ## Overview
