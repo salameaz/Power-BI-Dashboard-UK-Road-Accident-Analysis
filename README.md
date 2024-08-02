@@ -12,7 +12,7 @@ This Power BI dashboard provides an analysis of road accidents in the UK for the
 - **Weather and Road Surface Conditions**: Filters to analyze the impact of weather and road surface conditions on accidents.
 
 ## Screenshot
-![UK Road Accident Dashboard](Power BI dashboard UK road accidents.png)
+![UK Road Accident Dashboard](Power-BI-dashboard-UK-road-accidents.png)
 
 ## Download
 - [Download pbix Version]
