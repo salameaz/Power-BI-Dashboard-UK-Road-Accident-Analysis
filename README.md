@@ -4,7 +4,8 @@
 This Power BI dashboard provides an analysis of road accidents in the UK for the years 2021-2022. It includes insights into the total casualties, accident severity, road types, and more.
 
 ## Data Sources
-The data used in this dashboard is sourced from @Ehsan Nabatchian [repo](https://github.com/Ethann93/UK-ROAD-ACCIDENT-ANALYSIS-Dashboard-).
+The data used in this dashboard is sourced from @Isaac Mwendwa [repo](https://github.com/IsaacMwendwa/Power-BI-Road-Accidents-Analysis-Dashboard).
+or you can access it directly [here](https://drive.google.com/drive/folders/18aZ6PvjvLPdjxjhcSK2RErU-Uz9jXtN4?usp=drive_link) or [here](https://drive.google.com/drive/folders/1G3BFBOcSn-i-8aJ6c_MgGWJzhYWM_Okb)
 
 ## Features
 - **Casualties by Vehicle Type**: Breakdown of casualties by different types of vehicles.
