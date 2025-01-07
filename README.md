@@ -1,6 +1,8 @@
 # UK Road Accident Analysis (2021-2022)
 
-[![Contributors](https://img.shields.io/github/contributors/mariosa7/Power-BI-Dashboard-UK-Road-Accident-Analysis)](https://github.com/mariosa7/Power-BI-Dashboard-UK-Road-Accident-Analysis/graphs/contributors)
+by
+[mariosa7](https://github.com/mariosa7)
+[salameaz](https://github.com/salameaz) 
 
 ## Overview
 This Power BI dashboard provides an analysis of road accidents in the UK for the years 2021-2022. It includes insights into the total casualties, accident severity, road types, and more.
